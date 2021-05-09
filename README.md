@@ -18,8 +18,10 @@ Once you are done. replace it in the script!
 
 ## how to run?
 
+Find your district id from the districts.json file & use the command below. The api_key can be retreived by following steps above
+
 ```
-python3 vaccine.py
+python3 vaccine.py <disctict_id> <phone_number_with_std> <api_key>
 ```
 
 ## Requirements?
